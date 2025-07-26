@@ -10,7 +10,7 @@ This program extracts the landmarks from the dataset and stores in pickle file a
 
 create_model.py:
 Run this program after generating the pickle file. 
-This program trains a machine model using the extracted landmarks and stores in a .p file. We use Random Forest model for this purpose.
+This program trains a machine learning model using the extracted landmarks and stores in a .p file. We use Random Forest model for this purpose.
 
 detect.py:
 This program is used to detect the sign language gestures directly from the camera.
