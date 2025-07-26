@@ -15,5 +15,6 @@ This program trains a machine learning model using the extracted landmarks and s
 detect.py:
 This program is used to detect the sign language gestures directly from the camera.
 
-[Demo](https://youtu.be/rs-0SuueIOs) 
+
 Prepared for the triwaizardathon 1.0 hackathon by the team Voo Doo boys. 
+[Demo video](https://youtu.be/rs-0SuueIOs) 
